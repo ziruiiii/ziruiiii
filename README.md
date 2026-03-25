@@ -9,13 +9,11 @@ Geospatial Developer • Web GIS • Spatial Analytics
 </p>
 
 <p align="center">
-
-<a href="https://github.com/ziruiii">github</a> •
-<a href="http://www.linkedin.com/in/rachel-ziruizeng">linkedin</a> •
-<a href="YOUR_PORTFOLIO">portfolio</a> •
-<a href="mailto:YOUR_EMAIL">email</a>
-
-</p>
+🗺 <a href="https://github.com/ziruiii">github</a>&nbsp;&nbsp;
+📍 <a href="http://www.linkedin.com/in/rachel-ziruizeng">linkedin</a>&nbsp;&nbsp;
+🌏 <a href="YOUR_PORTFOLIO">portfolio</a>&nbsp;&nbsp;
+✉️ <a href="mailto:YOUR_EMAIL">email</a>
+</p>>
 
 ---
 
