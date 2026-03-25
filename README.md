@@ -5,116 +5,112 @@ Geospatial Developer | Web GIS | Spatial Analytics
 </p>
 
 <p align="center">
-<code>WGS84 | EPSG:4326 | Singapore</code>
+📍 Singapore &nbsp;&nbsp;|&nbsp;&nbsp; 🌏 WGS84 &nbsp;&nbsp;|&nbsp;&nbsp; 📐 EPSG:4326
 </p>
+
+---
 
 <p align="center">
-  <a href="https://ziruiii.github.io/zirui-webgis-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563eb?style=flat&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/ziruizeng">
-    <img src="https://img.shields.io/badge/Project%20Hub-43E55E?style=flat&logo=linktree&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ziruiii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ziruizeng02@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+
+<a href="https://github.com/ziruiii">
+<img src="https://img.shields.io/badge/GitHub-1f2428?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="http://www.linkedin.com/in/rachel-ziruizeng">
+<img src="https://img.shields.io/badge/LinkedIn-2f3e46?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-344e41?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-3a5a40?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🧭 About
+## About Me
 
-I develop geospatial applications and spatial decision-support workflows combining Web GIS, spatial analytics and geospatial data engineering. My work focuses on accessibility analysis, urban spatial modelling, geospatial pipelines and interactive GIS applications.
+GIS graduate student at National University of Singapore with experience in GNSS geodetic processing, spatial data science, and Web GIS development. Interested in building spatial data pipelines and decision-support geospatial applications.
+
+Currently working as **Geomatics / GIS Intern at Singapore Land Authority** supporting GNSS processing and national geospatial infrastructure projects.
 
 ---
 
-## 🛠️ Technologies
+## Current Work
 
-**GIS Platforms**
+🔬 GNSS Precise Point Positioning (PPP) pipeline development  
+🌊 National TopoBathy integration project  
+🗺 Web GIS application development  
+📊 Spatial analytics and geospatial ML  
 
-ArcGIS Pro  
-ArcGIS Online (Experience Builder, Dashboards, Instant Apps)  
-QGIS  
-Google Earth Engine  
+---
 
-**Web GIS**
+## Technical Stack
 
-HTML  
-CSS  
-JavaScript  
-Web GIS deployment (GitHub Pages)
+**GIS**
+ArcGIS Pro | ArcGIS Online | QGIS | Google Earth Engine  
 
 **Programming**
+Python | SQL | Linux | Bash  
 
-Python (GeoPandas, Xarray)  
-SQL  
-Linux  
+**Web GIS**
+HTML | CSS | JavaScript | ArcGIS Dashboards | Experience Builder  
 
 **Remote Sensing**
-
-ENVI  
-ERDAS Imagine  
+ENVI | ERDAS | Satellite image processing  
 
 ---
 
-## 🚀 Selected Projects
+## Featured Projects
 
-**Web GIS Commuter Routing Dashboard**  
-Interactive Web GIS dashboard integrating real-time IoT weather data for commuter decision support.  
-Singapore Round Winner, ASEAN Finalist.
+### GNSS PPP Processing Pipeline
+Automated GNSS processing workflows for coordinate time series generation and deformation monitoring.
 
-**Spatial Accessibility Web GIS (ongoing)**  
-ArcGIS Experience Builder application analysing childcare and primary school accessibility for working families in Singapore.
-
-**TopoBathy Geospatial Framework (SLA collaboration)**  
-Developing a national TopoBathy integration workflow combining multi-source point cloud datasets with standardised geospatial reference systems.
-
-**Geospatial Data Pipelines**
-Python workflows (GeoPandas, Xarray) for automated spatial data processing and analysis.
-
-**Urban Thermal Analysis**
-Google Earth Engine workflows analysing multi-decadal satellite imagery for urban heat patterns.
+Tools: Python | GipsyX | Linux | GNSS processing
 
 ---
 
-## 🧪 Current Work
+### Transit Comfort Dashboard
+Web GIS dashboard integrating weather and transport accessibility data for commuter decision support.
 
-**Singapore Land Authority — Geomatics & GNSS Intern**
-
-Working on geospatial infrastructure modernisation including GNSS data pipelines, coordinate reference validation, and national gravity network technical documentation.
-
-**A*STAR IHPC — GIS & Remote Sensing Research**
-
-Developed Python geospatial data pipelines for TB-scale NetCDF climate datasets and supported spatial analysis workflows for climate applications.
+Tools: ArcGIS Online | Python | Spatial analytics
 
 ---
 
-## 📊 Current Interests
+### Childcare Accessibility Web GIS
+Spatial accessibility modelling using PCA and 2SFCA to identify infrastructure inequality.
 
-Web GIS application engineering  
-Spatial accessibility analysis  
-Geospatial data engineering  
-Urban analytics  
-GIS decision-support systems  
+Tools: ArcGIS Pro | Python | Spatial statistics
 
 ---
 
-## 🔗 Links
+### Urban Heat Remote Sensing Analysis
+Multi-year satellite analysis studying spatial heat distribution.
 
-Portfolio  
-https://ziruiii.github.io/zirui-webgis-portfolio/
+Tools: Google Earth Engine | Python
 
-Project Hub  
-https://linktr.ee/ziruizeng
+---
 
-LinkedIn  
-(add your link)
+## Research Interests
 
-Email  
-ziruizeng02@gmail.com
+Urban GIS  
+Spatial data science  
+Geospatial infrastructure  
+Environmental GIS  
+Spatial accessibility  
+
+---
+
+## GitHub Focus
+
+This GitHub contains:
+
+• GIS projects  
+• Spatial data science workflows  
+• Python geospatial tools  
+• Web GIS applications  
+• Research prototypes  
