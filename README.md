@@ -78,15 +78,6 @@ Multi-year satellite analysis of urban thermal distribution.
 
 Tools: Google Earth Engine • Python  
 
----
-
-## Research Interests
-
-Urban GIS  
-Spatial data science  
-Geospatial infrastructure  
-Environmental GIS  
-Spatial accessibility  
 
 ---
 
