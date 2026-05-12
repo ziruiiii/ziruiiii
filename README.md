@@ -19,23 +19,26 @@
 
 ## About
 
-I work with spatial data in the slightly messy places: GNSS files, coordinate systems, climate rasters, survey datasets, and web maps that need to be more than just pretty.
+Geography has been my dream since middle school. I still remember being fascinated by the idea that data could become a map, and that a map could help me understand the world around me a little better.
 
-I recently completed my **MSc in Applied GIS at the National University of Singapore**, after studying **Spatial Systems at the University of Melbourne**. My work sits somewhere between geodesy, spatial analytics, remote sensing, and Web GIS.
+Ten years later, I still genuinely love this field.
+
+I recently completed my **MSc in Applied GIS at the National University of Singapore**, after studying **Spatial Systems at the University of Melbourne**. My work now sits somewhere between geodesy, spatial analytics, remote sensing, and Web GIS.
 
 Most recently, I worked as a **Geomatics + Geodesy Intern at Singapore Land Authority**, where I supported GNSS RINEX validation, coordinate transformation checks for SiReNT, and requirement specifications for national geospatial infrastructure projects.
 
-I like projects that start with raw spatial data and end as something people can actually use: a dashboard, a model, a workflow, or a small map that explains the problem better than a paragraph can.
 
 ---
 
 ## Recent Work
 
-- 🛰️ Automating GNSS RINEX validation with Python + shell scripts  
-- 📐 Checking coordinate transformation logic across SVY21, WGS84, and GRS80  
-- 🌊 Building workflows for Singapore’s topo-bathymetric elevation data  
-- 🌦️ Connecting weather APIs with routing and commuter comfort analysis  
-- 🛰️ Processing satellite imagery for urban heat and environmental patterns  
+- 🛰️ Automated GNSS RINEX validation with Python + shell scripts in processing software GipsyX (work with Singapore Land Authority)
+- 🌊 Developed a topo-bathymetric integration pipeline to reconcile LiDAR and bathymetry across Singapore’s coastal interface, including datum translation and tide gauge zone boundary checks (NUS × SLA)
+- 🌫️ Developed a transboundary haze analysis workflow combining regional fire hotspots, meteorological variables, PSI/PM2.5 records, Google Trends, Reddit activity and news data to examine gaps between official air quality indicators and public concern in Singapore.
+- 🌦️ Developed an interactive Transit Comfort Dashboard integrating real-time APIs and spatial processing to support commuter decision-making (ASEAN Geospatial Challenge Excellence Award)
+- 🧑‍🧑‍🧒 Designed an interactive Web GIS Experience Builder to evaluate home–school–work accessibility using trip-chain modelling and real-time user-driven analysis.
+- 🌳 Modelled pixel-level forest fire risk across Indonesian REDD+ sites using Random Forest and Difference-in-Differences to evaluate post-certification impacts
+ 
 
 ---
 
@@ -54,50 +57,51 @@ HTML · CSS · JavaScript · ArcGIS Dashboards · Experience Builder · GitHub P
 ENVI · ERDAS Imagine · NetCDF · WRF · PDAL  
 
 ---
-
 ## Selected Projects
 
-### 🌦️ Web GIS Commuter Routing Dashboard
+### 🌦️ Transit Comfort Dashboard  
+A solution-focused Web GIS application that integrates real-time weather, transport, and spatial data to evaluate commuter comfort.
 
-A weather-aware routing dashboard that connects real-time NEA weather data with commuter pathways.
+Developed a Transit Comfort Score (0–100) across crowd density, thermal discomfort, exposure risk, and proximity to amenities, translating multi-source data into an intuitive decision-support tool for route and timing choices.
 
-Built for the **ASEAN Geospatial Challenge 2026** — Singapore Round Winner and ASEAN Finalist.
+Received **Excellence Award** from **the ASEAN Geospatial Challenge 2026**.
 
-`JavaScript` · `Python` · `Mapbox` · `NEA API` · `Web GIS`
-
----
-
-### 🌊 National TopoBathy Framework
-
-A GIS workflow for integrating topographic and bathymetric datasets into a continuous coastal elevation surface for Singapore.
-
-Collaborated with Singapore Land Authority on data processing logic and 3D spatial workflows.
-
-`Python` · `PDAL` · `3D Spatial Algorithms` · `GIS Processing`
+`JavaScript` · `Python` · `ArcGIS / Mapbox` · `Real-time APIs` · `Web GIS`
 
 ---
 
-### 🧒 Public Facility Accessibility Analysis
+### 🌊 National TopoBathy Framework  
+Designed a GIS workflow to integrate LiDAR-derived topography and bathymetric datasets into a continuous coastal elevation surface.
 
-Spatial accessibility modelling for public facilities using PCA and 2SFCA methods to identify supply-demand gaps.
+Handled CD–SHD datum translation, tide gauge zone inconsistencies, and boundary discontinuities, with a focus on building a stable and scalable integration pipeline.
 
-`ArcGIS Pro` · `Python` · `Spatial Modelling` · `StoryMaps`
+`Python` · `PDAL` · `PostGIS` · `3D Spatial Processing`
 
 ---
 
-### 🌡️ Urban Heat Remote Sensing Study
+### 🧒 Trip-Chain Accessibility ArcGIS Experience Builder (Working Families)  
+Developed a multimodal transport network and OD-based trip-chain model to evaluate time-based accessibility to child-related services.
 
-Multi-year satellite image analysis of urban thermal patterns in Northeast China.
+Integrated home–school–work travel chains and built an interactive Experience Builder application to support both user-level decision-making and planner-level analysis.
+
+`ArcGIS Pro` · `Python` · `Network Analysis` · `Experience Builder`
+---
+
+### 🌡️ Urban Heat Remote Sensing Study  
+Conducted multi-year satellite analysis to quantify urban thermal patterns and spatial variability.
+
+Focused on extracting consistent indicators from multi-temporal imagery for comparative analysis.
 
 `Google Earth Engine` · `Python` · `Remote Sensing`
 
 ---
 
-### 🛰️ Climate + Geospatial Data Pipelines
+### 🛰️ Climate & Geospatial Data Pipelines  
+Developed automated workflows for processing large-scale climate and geospatial datasets.
 
-Automated Python workflows for large climate and geospatial datasets, including NetCDF processing with Xarray and GeoPandas.
+Worked with NetCDF and raster data using scalable Python tools, enabling efficient data preparation for downstream analysis.
 
-`Python` · `Xarray` · `GeoPandas` · `Linux` · `HPC`
+`Python` · `Xarray` · `GeoPandas` · `Linux`
 
 ---
 
