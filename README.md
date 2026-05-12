@@ -104,16 +104,6 @@ Worked with NetCDF and raster data using scalable Python tools, enabling efficie
 
 ---
 
-## What I’m Exploring
-
-- Geospatial AI  
-- Spatial data engineering  
-- Cloud GIS workflows  
-- Coordinate reference systems  
-- Web GIS that feels clean, light, and useful  
-
----
-
 ## This GitHub
 
 A small collection of things I build while learning and working with spatial data:
