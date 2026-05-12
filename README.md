@@ -84,8 +84,7 @@ Developed a multimodal transport network and OD-based trip-chain model to evalua
 
 Integrated home–school–work travel chains and built an interactive Experience Builder application to support both user-level decision-making and planner-level analysis.
 
-`ArcGIS Pro` · `Python` · `Network Analysis` · `Experience Builder`
----
+`HTML` · `CSS` · `JavaScript` · `WebGIS`
 
 ### 🌡️ Urban Heat Remote Sensing Study  
 Conducted multi-year satellite analysis to quantify urban thermal patterns and spatial variability.
